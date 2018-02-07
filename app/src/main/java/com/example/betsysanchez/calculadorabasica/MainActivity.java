@@ -130,6 +130,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 cajita.append("9");
                 ban=false;
+
             }
         });
         punto.setOnClickListener(new View.OnClickListener() {
